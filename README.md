@@ -4,7 +4,7 @@ Meu nome é Gabriel Tomaz 👨🏾‍💻
 
 Eu sou estudante de análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras 🏫
 
-Eu sou fissurado pro CSS e consequentemente por desenvolvimento Web. Últimamente tenho estudado bastante react e react native. Fora isso eu dou uma olhada vez ou outra em UI/UX Design. 🖥
+Eu sou fissurado por CSS e consequentemente por desenvolvimento Web. Últimamente tenho estudado bastante react e react native. Fora isso eu dou uma olhada vez ou outra em UI/UX Design. 🖥
 
 A meta é ser Dev Front-end... 😅
 
