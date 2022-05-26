@@ -2,15 +2,11 @@
 
 Meu nome é Gabriel Tomaz 👨🏾‍💻
 
-Eu sou estudante de análise e desenvolvimento de sistemas no IFPB Campus Cajazeiras 🏫
+Atualmente estou cursando o 5° período de ADS e sou estagiário na [Tarken.ag](http://Tarken.ag).
 
-Eu sou fissurado por CSS e consequentemente por desenvolvimento Web. Últimamente tenho estudado bastante react e react native. Fora isso eu dou uma olhada vez ou outra em UI/UX Design. 🖥
+Trabalhei algum tempo como desenvolvedor Front-end e mobile até que surgiu a oportunidade de atuar como UI/UX Designer, era algo que eu almejava bastante.
 
-A meta é ser Dev Front-end... 😅
-
-###### Frase aleatoria de um filosofo mas que no momento que escrevi isso fazia sentido pra mim...
-
-##### <i>"A dúvida é o princípio da sabedoria." </i>🤯
+Ainda estou estudando, um dos meus desafios atuais é desenvolver meu TCC 1. Divido meu tempo entre o trabalho e a faculdade. No tempo livre gosto de jogar algo, ler uma HQ ou ver os amigos.
 
 #### Você também pode me encontrar por aqui
 
