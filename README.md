@@ -2,11 +2,12 @@
 
 Meu nome é Gabriel Tomaz 👨🏾‍💻
 
-Atualmente estou cursando o 5° período de ADS e sou estagiário na [Tarken.ag](http://Tarken.ag).
+Oi, tudo bem ? Me chamo Gabriel, atualmente atuo como Product Designer Júnior na Taken.ag, iniciei minha jornada como estagiário e tenho aprendido bastante desde então. 
 
 Trabalhei algum tempo como desenvolvedor Front-end e mobile até que surgiu a oportunidade de atuar como UI/UX Designer, era algo que eu almejava bastante.
 
-Ainda estou estudando, um dos meus desafios atuais é desenvolver meu TCC 1. Divido meu tempo entre o trabalho e a faculdade. No tempo livre gosto de jogar algo, ler uma HQ ou ver os amigos.
+Sigo estudando constantemente para aperfeiçoar meus conhecimentos. Trabalho em tempo integral e no  tempo livre gosto de jogar algo, ler uma HQ ou ver os amigos.
+
 
 #### Você também pode me encontrar por aqui
 
