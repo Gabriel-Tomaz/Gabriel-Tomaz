@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Tomaz 👨🏾‍💻
 
-Oi, tudo bem ? Me chamo Gabriel, atualmente atuo como Product Designer Júnior na Taken.ag, iniciei minha jornada como estagiário e tenho aprendido bastante desde então. 
+Atualmente atuo como Product Designer Júnior na Taken.ag, iniciei minha jornada como estagiário e tenho aprendido bastante desde então. 
 
 Trabalhei algum tempo como desenvolvedor Front-end e mobile até que surgiu a oportunidade de atuar como UI/UX Designer, era algo que eu almejava bastante.
 
